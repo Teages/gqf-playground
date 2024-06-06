@@ -1,0 +1,16 @@
+{
+  "name": "gqf-playground",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "play": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@teages/gqf": "^0.1.1",
+    "graphql-request": "^7.0.1",
+    "tsx": "^4.12.0"
+  }
+}
